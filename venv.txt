@@ -1,0 +1,8 @@
+#建立虛擬環境
+python -m venv myenv
+
+#進入venv
+.\myenv\Scripts\Activate.ps1
+
+#退出vnev
+deactivate
